@@ -22,9 +22,9 @@
 # ism = "sardor" 
 # familiya = "abdulxamidov"
 # ism_familiya = f"{ism} {familiya}"
-# print(ism_familiya.upper()) => SARDOR ABDULXAMIDOV (HAR BIR HARFNI KATTA BILAN YOZADI)
-# print(ism_familiya.title()) => Sardor Abdulxamidov (So'z Boshini Katta Harflar Bilan Yozadi)
-# print(ism_familiya.capitalize()) => Sardor abdulxamidov (Matn boshini katta harf bilan yozadi)
+# print(ism_familiya.upper()) # => SARDOR ABDULXAMIDOV (HAR BIR HARFNI KATTA BILAN YOZADI)
+# print(ism_familiya.title()) #=> Sardor Abdulxamidov (So'z Boshini Katta Harflar Bilan Yozadi)
+# print(ism_familiya.capitalize())# => Sardor abdulxamidov (Matn boshini katta harf bilan yozadi)
 
 # meva = "     olma     "
 # print('Men' , meva , 'ni yaxshi ko\'raman') => Men      olma      ni yaxshi ko'raman
